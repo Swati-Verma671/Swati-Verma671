@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Swati-Verma671
+- 👋 Hi, I’m Swati
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning React.
 
