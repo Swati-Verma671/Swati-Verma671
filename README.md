@@ -28,7 +28,7 @@ Hello I am Swati. I am speak less but worry not I am a good **listener**, which 
 - Figma
 
 ## These are my stats ever since I joined github in June 2021. I am personally proud of many projects I have completed, so although small I am proud of them,
-[![Swati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swati-Verma671)](https://github.com/Swati-Verma671/github-readme-stats)
+[![Swati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swati-Verma671&show_icons=true&theme=dracula)](https://github.com/Swati-Verma671/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swati-Verma671&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swati-Verma671&theme=tokyonight)
 
