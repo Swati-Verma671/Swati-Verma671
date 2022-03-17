@@ -35,3 +35,4 @@ Hello I am Swati. I speak less but worry not I am a good **listener**, which is 
 
 ## Reach me out-
 - [LinkedIn](https://www.linkedin.com/in/swati-verma-b36878230/)
+- Email - swati.verma@learner.manipal.edu
