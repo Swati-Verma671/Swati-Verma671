@@ -33,9 +33,6 @@ Hello I am Swati. I speak less but worry not I am a good **listener**, which is 
 ### I often integrate my CSS and Javascript as style and script elements in the HTML files itself for the smaller projects, Hence the stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swati-Verma671&theme=radical)
 
-## My coding activity:
-[![Swati's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Swati-Verma671)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Reach me out-
 - [LinkedIn](https://www.linkedin.com/in/swati-verma-b36878230/)
 - Email - swati.verma@learner.manipal.edu
