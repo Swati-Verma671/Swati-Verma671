@@ -1,4 +1,4 @@
-# Swati Verma ![](https://komarev.com/ghpvc/?username=Swati-Verma671&color=blueviolet&style=for-the-badge)
+# Swati Verma 
 Hello I am Swati. I speak less but worry not I am a good **listener**, which is both a boon and a curse. Regardless, I am sure you are here to check out my profile and my projects, since I am a self taught developer who learnes many things from youtube tutorials and Internet.I try to inforce learning through building, hence many projects (although simple and small) I create are a necessary part of my **growth** and **self-improvement**.
 
 - 👀 I’m interested in web development. Self teaching my way to full-stack development.
