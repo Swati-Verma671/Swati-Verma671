@@ -1,5 +1,5 @@
 # Swati Verma 
-Hello I am Swati. I speak less but worry not I am a good **listener**, which is both a boon and a curse. Regardless, I am sure you are here to check out my profile and my projects, since I am a self taught developer who learnes many things from youtube tutorials and Internet.I try to inforce learning through building, hence many projects (although simple and small) I create are a necessary part of my **growth** and **self-improvement**.
+Hello I am Swati. I speak less but worry not I am a good **listener**, which can both be a boon or a curse.
 
 - 👀 I’m interested in web development. Self teaching my way to full-stack development.
 - 🌱 I’m currently learning React, NodeJS, MongoDB.
