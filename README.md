@@ -1,9 +1,6 @@
 # Swati Verma 
 Hello I am Swati. I speak less but worry not I am a good **listener**, which can both be a boon or a curse.
 
-- 👀 I’m interested in web development. Self teaching my way to full-stack development.
-- 🌱 I’m currently learning React, NodeJS, MongoDB.
-
 # Skills
 ## Programming Languages
 - C
