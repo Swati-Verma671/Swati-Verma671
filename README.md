@@ -24,10 +24,10 @@ Hello I am Swati. I speak less but worry not I am a good **listener**, which can
 - Git Basics
 - Figma
 
-### These are my stats ever since I joined github in June 2021. I am personally proud of many projects I have completed,
+### My stats
 [![Swati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swati-Verma671&show_icons=true&theme=radical)](https://github.com/Swati-Verma671/github-readme-stats)
 
-### I often integrate my CSS and Javascript as style and script elements in the HTML files itself for the smaller projects, Hence the stats:
+### Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swati-Verma671&theme=radical)
 
 ## Reach me out-
