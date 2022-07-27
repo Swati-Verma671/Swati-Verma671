@@ -1,28 +1,7 @@
 # Swati Verma 
 Hello I am Swati. I speak less but worry not I am a good **listener**, which can both be a boon or a curse.
 
-# Skills
-## Programming Languages
-- C
--  Python
--  Javascript
 
-## Web Development
-- HTML5, CSS
-- Javascript
-- React
-- NodeJs
-- Bootstrap
-
-## Currently Learning
-- React
-- NodeJS
-- MongoDB
-
-## Others
-- Linux
-- Git Basics
-- Figma
 
 ### My stats
 [![Swati's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swati-Verma671&show_icons=true&theme=radical)](https://github.com/Swati-Verma671/github-readme-stats)
