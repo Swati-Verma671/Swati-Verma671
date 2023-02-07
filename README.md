@@ -1,5 +1,5 @@
 # Swati Verma 
-Hello I am Swati. I speak less but worry not I am a good **listener**, which can both be a boon or a curse.
+Hello I am Swati, an undergraduate electrical and electronics engineer in Manipal Institute of Technology. 
 
 
 
